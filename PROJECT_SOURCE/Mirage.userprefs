@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\tutorial.cs">
+    <Files>
+      <File FileName="Assets\scripts\slider.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\start.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\deadOnTouch.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\levelEnd.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\pauseButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\win.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\tutorial.cs" Line="19" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
