@@ -4,9 +4,9 @@
 
 ###**Screenshots**
 
-![screenshot](./screenshots/screen1.jpg)
-![screenshot](./screenshots/screen2.jpg)
-![screenshot](./screenshots/screen3.jpg)
+![screenshot](./screenshots/screen1.png)
+![screenshot](./screenshots/screen2.png)
+![screenshot](./screenshots/screen3.png)
 
 ####NOTES
 * :video_game: Requires Unity Web Player to be played in browser.
