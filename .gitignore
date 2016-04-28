@@ -1,2 +1,4 @@
 *.meta
 MIRAGE_executables
+package
+*.docx
